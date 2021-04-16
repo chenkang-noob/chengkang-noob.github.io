@@ -29,11 +29,12 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-logo: logo.png
+logo: avatar.jpg
 social:
   name: chenkang
   links:
     - https://github.com/chenkang-noob
 lang: cn
+
 
 github_username: chenkang-noob
