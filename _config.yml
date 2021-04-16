@@ -1,7 +1,7 @@
 title: chenkang Blog
 description: a noob
 author: chenkang
-avatar: /logo.png
+avatar: /avatar.jpg
 email: 1206734994@qq.com
 
 plugins:
@@ -29,9 +29,6 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
 logo: logo.png
 social:
   name: chenkang
