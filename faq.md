@@ -5,3 +5,5 @@ permalink: /faq/
 ---
 
 An FAQ page.
+
+FAQFAQ
